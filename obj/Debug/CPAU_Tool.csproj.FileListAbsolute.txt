@@ -1,0 +1,9 @@
+D:\CPAU_Tool\CPAU\bin\Debug\CPAU.exe
+D:\CPAU_Tool\CPAU\bin\Debug\CPAU.pdb
+D:\CPAU_Tool\CPAU\obj\Debug\CPAU.Form1.resources
+D:\CPAU_Tool\CPAU\obj\Debug\CPAU.Properties.Resources.resources
+D:\CPAU_Tool\CPAU\obj\Debug\CPAU_Tool.csproj.GenerateResource.cache
+D:\CPAU_Tool\CPAU\obj\Debug\CPAU_Tool.csproj.CoreCompileInputs.cache
+D:\CPAU_Tool\CPAU\obj\Debug\CPAU.exe
+D:\CPAU_Tool\CPAU\obj\Debug\CPAU.pdb
+D:\CPAU_Tool\CPAU\obj\Debug\CPAU_Tool.csproj.AssemblyReference.cache
